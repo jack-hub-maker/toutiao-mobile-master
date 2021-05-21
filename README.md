@@ -1,4 +1,4 @@
-# toutiao-m
+# 黑马头条移动端
 
 ## Project setup
 ```
@@ -23,7 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### 
-```
-黑马头条移动端
-```
+
